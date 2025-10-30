@@ -1,1 +1,1 @@
-# Jesse-and-Cookies-DATA-STRUCTURE-MEDIUM
+# Jesse-and-Cookies-DATA-STRUCTURE-MEDIUM. This solution uses a min heap to repeatedly combine the two least sweet cookies until all cookies meet the minimum sweetness requirement k, counting the number of operations needed or returning -1 if it's impossible.
